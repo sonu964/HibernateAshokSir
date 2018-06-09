@@ -316,9 +316,6 @@ public List<StudentDTO> getAllStudentDTO(){
 		session.close();
 	}
 	
-	
-	
-	
 	return listSt;
 }
 
